@@ -89,6 +89,7 @@ header {
 }
 
 .about-content-container p {
+    font-size: 18px;
     width: 350px;
     margin-left: 80px;
 }
@@ -423,6 +424,14 @@ footer {
         margin-top: 20px;
     }
 
+    .menu-button {
+        float: left;
+        margin-top: 100px;
+        margin-left: 20px;
+        background-color: rgba(51, 52, 54);
+}
+    
+
   .header-img {
     height: 550px;
     padding-top: 500px;
@@ -436,6 +445,10 @@ footer {
   .about-content-container h2 {
       text-align: center;
       margin: 0;
+  }
+
+  .about-content-container p {
+      margin-left: 5px;
   }
 
   .music {
@@ -483,12 +496,10 @@ footer {
     margin-right: auto;
 }
 
-#tour h2 {
-    font-size: 50px;
-    text-align: center;
-    padding-top: 30px;
-    padding-bottom: 40px;
-  }
+ .tour-bk {
+    padding-top: 10px;
+}
+
 
   .gallery-bk  {
     padding-left: 42px;
@@ -500,9 +511,9 @@ footer {
   }
 
   #tour h2 {
-    font-size: 30px;
+    font-size: 50px;
     text-align: center;
-    padding-top: 90px;
+    padding-top: 50px;
     padding-bottom: 25px;
   }
 
