@@ -39,12 +39,8 @@ header {
   color: inherit;
 }
 
-#menu a:hover {
-  border-bottom: 1px solid #777777;
-}
-
-.active {
-  border-bottom: 1px solid #777777;
+.active:hover {
+  border-bottom: 2px solid rgba(156, 115, 3);
 }
 
 #logo, #menu {
