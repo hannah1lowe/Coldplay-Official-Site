@@ -380,6 +380,11 @@ footer {
         padding: 7px;
     }
 
+    #album a img {
+        width: 250px;
+        height: 250px;
+    }
+
     #photo1,
     #photo2,
     #photo3,
