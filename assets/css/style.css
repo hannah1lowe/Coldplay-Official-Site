@@ -54,7 +54,7 @@ header {
 /* ---------------------------------------------------------------------Header-Image */
 
 .header-img {
-    background: url("../images/header/new.png") no-repeat center center;
+    background: url("../images/header/header.png") no-repeat center center;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -68,7 +68,7 @@ header {
 
 .about-img {
     height: 450px;
-    background: url("../images/about/download-1.jpg") no-repeat center center;
+    background: url("../images/about/about.jpg") no-repeat center center;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
